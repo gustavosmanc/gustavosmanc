@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/UqLi5jK.png)
+[![alt text](https://i.imgur.com/UqLi5jK.png)](https://in.linkedin.com/in/gustavosmanc)
 
 #
 
