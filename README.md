@@ -29,6 +29,7 @@ I once read a book and found a quote that is very relatable with coding:
 ![Redux](https://img.shields.io/badge/redux-392560.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/node.js-392560?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-392560.svg?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-392560.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-392560.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-392560.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -36,6 +37,7 @@ I once read a book and found a quote that is very relatable with coding:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-392560?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-392560.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-392560.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-392560?style=for-the-badge&logo=elasticsearch)
 
 ![Jest](https://img.shields.io/badge/-jest-392560?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-392560?style=for-the-badge&logo=mocha&logoColor=white)
