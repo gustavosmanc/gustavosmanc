@@ -7,14 +7,13 @@
 
 **I love to code!**
 
-Ever since I was a child, technology has always sparkled my interest. For that particular reason, I decided to follow that path and take a Bachelor's degree on Computer Science.
+Ever since I was a child, technology has always sparkled my interest. I'm currently working as a Software Engineer with emphasis on web development, which is the field that I identify myself the most with and am passionate about.
 
-In search of the best and latest technologies, I currently work as a Software Engineer, with emphasis on web development.
+I once read a book and found a quote that is very relatable with coding:
 
-I once read a book and I found a quote that is very relatable with coding:
-
-“It sounds plausible enough tonight, but wait until tomorrow. Wait for the common sense of the morning.”
+“It sounds plausible enough tonight, but wait until tomorrow. Wait for the common sense of the morning.”<br>
 **― H.G. Wells, The Time Machine**
+
 
 # 🚀 Skills
 
