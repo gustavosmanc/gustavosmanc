@@ -11,6 +11,11 @@ Ever since I was a child, technology has always sparkled my interest. For that p
 
 In search of the best and latest technologies, I currently work as a Software Engineer, with emphasis on web development.
 
+I once read a book and I found a quote that is very relatable with coding:
+
+“It sounds plausible enough tonight, but wait until tomorrow. Wait for the common sense of the morning.”
+**― H.G. Wells, The Time Machine**
+
 # 🚀 Skills
 
 ![HTML5](https://img.shields.io/badge/html5-392560.svg?style=for-the-badge&logo=html5&logoColor=white)
