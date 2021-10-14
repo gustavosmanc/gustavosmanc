@@ -45,7 +45,3 @@ I once read a book and found a quote that is very relatable with coding:
 ![Docker](https://img.shields.io/badge/docker-392560.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-392560.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![ApacheKafka](https://img.shields.io/badge/Apache_Kafka-392560?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-#
-
-<img src = "https://github-readme-stats.vercel.app/api?username=gustavosmanc&show_icons=true&title_color=392560&text_color=392560&icon_color=392560" height = 190>
