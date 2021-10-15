@@ -45,6 +45,7 @@ I once read a book and found a quote that is very relatable with coding:
 ![Mocha](https://img.shields.io/badge/-mocha-392560?style=for-the-badge&logo=mocha&logoColor=white)
 ![Chai.js](https://img.shields.io/badge/-chai.js-392560?style=for-the-badge&logo=chai&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-392560?style=for-the-badge&logo=Selenium&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/Webdriver.IO-392560.svg?style=for-the-badge&logo=webdriverio&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-392560.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-392560.svg?style=for-the-badge&logo=docker&logoColor=white)
