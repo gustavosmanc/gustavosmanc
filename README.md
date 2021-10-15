@@ -26,6 +26,7 @@ I once read a book and found a quote that is very relatable with coding:
 ![Vue.js](https://img.shields.io/badge/vuejs-392560.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![NuxtJS](https://img.shields.io/badge/Nuxt-392560?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-392560.svg?style=for-the-badge&logo=react&logoColor=white)
+![Lit](https://img.shields.io/badge/lit-392560.svg?style=for-the-badge&logo=lit&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-392560.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/node.js-392560?style=for-the-badge&logo=node.js&logoColor=white)
