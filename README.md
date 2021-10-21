@@ -28,7 +28,6 @@ I once read a book and found a quote that is very relatable with coding:
 ![React](https://img.shields.io/badge/react-392560.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Lit](https://img.shields.io/badge/lit-392560.svg?style=for-the-badge&logo=lit&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-392560.svg?style=for-the-badge&logo=redux&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-392560.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/node.js-392560?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-392560.svg?style=for-the-badge&logo=express&logoColor=white)
