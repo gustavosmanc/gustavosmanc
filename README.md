@@ -34,7 +34,6 @@ I once read a book and found a quote that is very relatable with coding:
 ![Sequelize](https://img.shields.io/badge/sequelize-392560.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-392560.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-392560.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-392560.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-392560?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-392560.svg?style=for-the-badge&logo=mysql&logoColor=white)
